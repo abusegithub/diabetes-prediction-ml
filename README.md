@@ -210,7 +210,7 @@ The notebook will:
 
 ---
 
-## 🏷 GitHub Topics (recommended)
+## 🏷 GitHub Topics 
 
 ```
 machine-learning  diabetes  healthcare  pima  kaggle  classification  scikit-learn  python  notebook
